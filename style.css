@@ -1,0 +1,18 @@
+*{
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+    color: red;
+    text-align: center;
+    border: 20px solid blue;
+    margin: 50px 100px;
+}
+
+.container2{
+    color: red;
+    text-align: center;
+    border: 20px solid pink;
+    margin: 50px 100px;
+}
